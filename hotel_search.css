@@ -1,0 +1,24 @@
+
+.hero-image{
+	     background-image: url("images/hotel5.jpg");
+	         background-size: cover;
+
+   padding: 0px;
+    height: 550px;
+}
+.jumbotron {
+    margin: 0px;
+    padding: 0px;
+ 
+    }
+
+    .grey-border{
+background-color: #F5F5F5;
+    border-top: 1px solid #dbdbdb;
+    padding-top: 60px;
+    padding-bottom: 77.5px;
+}
+    .center-text{
+text-transform: uppercase;
+text-align: center;
+    }

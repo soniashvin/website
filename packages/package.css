@@ -1,0 +1,81 @@
+
+.hero-image{
+         background-image: url("images/package-coverimage.jpg");
+             background-size: cover;
+
+   padding: 0px;
+    height: 500px;
+}
+
+
+    .grey-border{
+background-color: #F5F5F5;
+    border-top: 1px solid #dbdbdb;
+    padding-top: 60px;
+    padding-bottom: 77.5px;
+}
+    .center-text{
+text-transform: uppercase;
+text-align: center;
+    }
+.logo{
+    width: 50px;
+
+}
+
+.bbox{
+    background-color: #F5F5F5;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.small-span{
+    font-size: 12px;
+    padding: 2px 5px;
+    border: 1px solid #5A564F;
+    margin-right: 5px; 
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #3c84c5;
+    border-color: #40719e;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.card-deck{
+    padding-bottom: 20px;
+}
+.card-deck a{
+    text-decoration: none;
+    color: black;
+}
+.card-deck a:hover{
+      -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+
+.back{
+    padding: 20px 0;
+}
+footer{
+    background-color: #3c84c5;
+    bottom: 0 !important;
+}
+.foot-uppr{
+    margin-bottom: 2px !important;
+}
+.foot-text{
+    font-size: 12px;
+}
+
+
+@media(max-width:768px){
+    h1{
+        font-size: 45px !important;
+    }
+}

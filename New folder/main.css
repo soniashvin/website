@@ -1,0 +1,175 @@
+
+.logo{
+    width: 50px;
+
+}
+.navbar-example1 ul li a{
+    font-family: 'arial';
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+}
+.navbar-example1 ul li a:hover{
+    color:;
+}
+
+
+
+.image-box{
+    text-align: center !important;
+    color: white;
+}
+.image{
+    background-image: url(https://tourdust-production-images.s3.amazonaws.com/uploads/seo_browse_page/hero_image/82/DSC05462.JPG);
+    height: 550px;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-size: cover;
+    background-position-x: no-repeat;
+    background-position-y: no-repeat;
+    background-attachment: scroll;
+    margin-bottom: 0;
+    padding: 0px;
+}
+.text-box{
+    padding-top: 250px;
+}
+h1{
+    font-size: 64px !important;
+}
+.text-box button{
+    background-color: #CF4635;
+    color: white;
+    border: 1px solid #5A564F !important;
+    padding: 10px;
+}
+
+
+
+#navbar-example2{
+    padding: 0 !important;
+}
+.navbar2{
+    text-decoration: none;
+    font-size: 15px !important;
+    width: 100% !important;
+    justify-content: space-evenly !important;
+}
+.navbar2 li a{
+    color: #83807B !important;
+}
+.navbar2 li{
+    padding: 0 10px !important;
+}
+.navbar2 li:hover{
+    background-color: #EAE8E8 !important;
+}
+
+
+
+#overview{
+    padding-top: 25px;
+}
+.overview{
+    margin-bottom: 100px;
+}
+.overview-text{
+    font-size: 16px;
+}
+.overview-row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.card-footer-text{
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: left !important;
+}
+.card-border{
+    border: 0 !important;
+    border-radius: 0 !important;
+}
+
+
+
+
+.itinerary{
+    background-color: #F5F5F5;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.filter{
+    width: 160px !important;
+    font-size: 16px;
+    background-color: #E6E6E6;
+    cursor: pointer;
+}
+.filter:hover{
+    background-color: #D4D4D4;
+}
+.filters{
+    width: 160px !important;
+    font-size: 16px;
+    background-color: white;
+}
+.filters:hover{    
+    color: white !important;
+    text-decoration: none !important;
+    background-color: #D96C5E !important;
+    cursor: pointer;
+}
+.small-span{
+    font-size: 12px;
+    padding: 2px 5px;
+    border: 1px solid #5A564F;
+    margin-right: 5px; 
+}
+.itinerary-btn{
+    background-color: transparent;
+    border: none;
+    color: #D96C5E;
+    padding: 5px;
+}
+.itinerary-btn:hover{
+    background-color: #D96C5E;
+    color: white;
+}
+.itinerary-btn2{
+    background-color: #627383;
+    border: none;
+    color: white;
+}
+
+
+
+
+
+
+/*footer{
+    background-color: #403D38;
+    color: white;
+}
+.footer-image{
+    width: 50%;
+}*/
+
+.back{
+    padding: 20px 0;
+}
+footer{
+    background-color: #37454D;
+    bottom: 0 !important;
+}
+.foot-uppr{
+    margin-bottom: 2px !important;
+}
+.foot-text{
+    font-size: 12px;
+}
+
+
+@media(max-width:768px){
+    h1{
+        font-size: 45px !important;
+    }
+}

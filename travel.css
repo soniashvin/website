@@ -1,0 +1,58 @@
+/*Navbar*/
+.navbar2{
+    background-color: #37454d;
+    margin: 0;
+    padding: 30px 0 20px 0;
+}
+.bg{
+    background-color: #3c84c5;
+}
+
+
+/*MainBody*/
+.logo{
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+.heading{
+    font-size: 50px;
+}
+
+/*Footer*/
+.back{
+    padding: 20px 0;
+}
+footer{
+    background-color: #3c84c5;
+    bottom: 0 !important;
+}
+.foot-uppr{
+    margin-bottom: 2px !important;
+}
+.foot-text{
+    font-size: 12px;
+}
+
+/*Card*/
+hr{
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+.card p{
+    margin-bottom: 4px;
+}
+
+/*Media Queries*/
+@media only screen and (max-width: 768px){
+    .logo{
+        height: 200px;
+        width: 200px;
+    }
+    .heading{
+        font-size: 50px;
+    }
+    form{
+        width: auto !important;
+    }
+}
